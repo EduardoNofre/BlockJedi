@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="jediEntity">
+		<class>com.br.jedi.entity.entity.Colorlayout</class>
+		<class>com.br.jedi.entity.entity.Colormenu</class>
+		<class>com.br.jedi.entity.entity.Compacto</class>
+		<class>com.br.jedi.entity.entity.Empresafilial</class>
+		<class>com.br.jedi.entity.entity.Menulayout</class>
+		<class>com.br.jedi.entity.entity.Orientacao</class>
+		<class>com.br.jedi.entity.entity.Perfil</class>
+		<class>com.br.jedi.entity.entity.Perfilacesso</class>
+		<class>com.br.jedi.entity.entity.Personalizacaocliente</class>
+		<class>com.br.jedi.entity.entity.Profile</class>
+		<class>com.br.jedi.entity.entity.Profileorietacao</class>
+		<class>com.br.jedi.entity.entity.Servidorimagem</class>
+		<class>com.br.jedi.entity.entity.Tema</class>
+		<class>com.br.jedi.entity.entity.Usuario</class>
+	</persistence-unit>
+</persistence>
